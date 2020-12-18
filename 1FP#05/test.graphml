@@ -1,0 +1,777 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="undirected">
+    <node id="Rua Apostolo Simão" />
+    <node id="Lagoa Azul" />
+    <node id="Avenida Guararapes" />
+    <node id="Avenida dos Caboclinhos" />
+    <node id="Rua Oficina do Açu" />
+    <node id="Avenida da Chegança" />
+    <node id="Avenida das Cirandas" />
+    <node id="Rua Bela Vista" />
+    <node id="Rua Sao Martinho" />
+    <node id="Avenida Três Americas" />
+    <node id="Avenida Cidade Praia" />
+    <node id="Potengi" />
+    <node id="Avenida Rio Doce" />
+    <node id="Rua Serra Negra" />
+    <node id="Avenida Pico do Cabugi" />
+    <node id="Rua Jequiriçá" />
+    <node id="Avenida Senhor do Bomfim" />
+    <node id="Rua Vital Ramos" />
+    <node id="Rua Paranduva" />
+    <node id="Rua Ilhéus" />
+    <node id="Avenida Guadalupe" />
+    <node id="Avenida Doutor João Medeiros Filho" />
+    <node id="Igapó" />
+    <node id="Túnel de Igapó" />
+    <node id="Viaduto de Igapó" />
+    <node id="Avenida Bacharel Tomaz Landim" />
+    <node id="Jardim Lola" />
+    <node id="Rua Cristo Rei" />
+    <node id="Ponte Presidente Costa e Silva" />
+    <node id="Nordeste" />
+    <node id="Avenida Felizardo Firmino Moura" />
+    <node id="Rua Alto da Bela Vista" />
+    <node id="Rua Jandira" />
+    <node id="Rua Doutor Mário Negócio" />
+    <node id="Viaduto da Urbana" />
+    <node id="Quintas" />
+    <node id="Avenida Bernardo Vieira" />
+    <node id="Rua Santa Helena" />
+    <node id="Rua dos Bandeirantes" />
+    <node id="Dix-Sept Rosado" />
+    <node id="Rua Sampaio Correia" />
+    <node id="Rua dos Caicós" />
+    <node id="Alecrim" />
+    <node id="Rua Jaguarari" />
+    <node id="nan" />
+    <node id="Lagoa Nova" />
+    <node id="Avenida Senador Salgado Filho" />
+    <node id="Viaduto do Quarto Centenário" />
+    <node id="Avenida Senador Salgado Filho - Marginal" />
+    <node id="Candelária" />
+    <node id="Rua Ascenso Ferreira" />
+    <node id="Capim Macio" />
+    <node id="Avenida Engenheiro Roberto Freire" />
+    <node id="Rua Monte Sinai" />
+    <node id="Rua Leôncio Etelvino de Medeiros" />
+    <node id="Passarela do Natal Shopping" />
+    <node id="Rua Coronel João Medeiros" />
+    <node id="Anel Viário da UFRN" />
+    <node id="Rua das Orquídeas" />
+    <node id="Avenida Passeio dos Girassóis" />
+    <node id="Avenida Odilon Gomes de Lima" />
+    <node id="Nova Descoberta" />
+    <node id="Avenida Djalma Maranhão" />
+    <node id="Rua Djalma Maranhão" />
+    <node id="Rua Coronel Auris Coelho" />
+    <node id="Rua Engenheiro Marcelo Cabral" />
+    <node id="Rua Padre Raimundo Brasil" />
+    <node id="Rua Dinarte Mariz Neto" />
+    <node id="Avenida Amintas Barros" />
+    <node id="Avenida Brigadeiro Gomes Ribeiro" />
+    <node id="Rua da Saudade" />
+    <node id="Avenida Xavier da Silveira" />
+    <node id="Rua Desembargador Sinval Moreira Dias" />
+    <node id="Rua Doutor Abelardo Calafange" />
+    <node id="Rua Clementino Farias" />
+    <node id="Rua Professor Antônio Nesi" />
+    <node id="Rua Edgar Barbosa" />
+    <node id="Rua Desembargador Antônio Cerejo" />
+    <node id="Tirol" />
+    <node id="Lagoa Seca" />
+    <node id="Avenida Prudente de Morais" />
+    <node id="Rua Presidente Gonçalves" />
+    <node id="Travessa Jandira" />
+    <node id="Salinas" />
+    <node id="Rua Santo Antonio de Padua" />
+    <node id="Travessa Macaé" />
+    <node id="Rua Juçara" />
+    <node id="Rua Jequié" />
+    <node id="Travessa Bela Vista" />
+    <node id="Rua Bumba Meu Boi" />
+    <node id="Rua Princessa dos Campos" />
+    <node id="Avenida Capitão Mor-Gouveia" />
+    <node id="Rua São José" />
+    <node id="Travessa Manoel Felipe" />
+    <node id="Rua Francisco Pereira" />
+    <node id="Avenida Interventor Mário Câmara" />
+    <node id="Rua Crezo Bezerra" />
+    <node id="Rua Senador Roberto Kennedy" />
+    <node id="Rua Maria José Lira" />
+    <node id="Avenida Florianópolis" />
+    <node id="Rua Santa Inês" />
+    <node id="Rua Itabuna" />
+    <node id="Rua Ilha de Marajó" />
+    <node id="Rua do Boi Misterioso" />
+    <node id="Rua Norte da Colina" />
+    <node id="Rua Tres Lagos" />
+    <node id="Rua São Tadeu" />
+    <node id="Rua Apostolo Simao" />
+    <node id="Rua dos Coroas" />
+    <node id="Rua da Araruna" />
+    <node id="Rua Palmeiras" />
+    <node id="Rua Caraubas" />
+    <node id="Avenida Antônio Basílio" />
+    <node id="Rua Los Angeles" />
+    <node id="Avenida Centenario da Abolicao" />
+    <node id="Rua da Lapinha" />
+    <node id="Avenida Apipucos" />
+    <node id="Rua Acaua" />
+    <node id="Rua Tomé de Souza" />
+    <node id="Avenida Industrial João Francisco da Motta" />
+    <node id="Rua Doutor Manoel Miranda" />
+    <node id="Rua Rainha do Mar" />
+    <node id="Felipe Camarão" />
+    <node id="Rua Maristela Alves" />
+    <node id="Avenida Nossa Senhora do Livramento" />
+    <node id="Travessa Joaquim de Castro" />
+    <node id="Rua Pedrinho Bezerra" />
+    <node id="Avenida Nossa Senhora do Rosário" />
+    <node id="Rua Nossa Senhora das Vitorias" />
+    <node id="Rua Santa Verônica" />
+    <node id="Cidade Nova" />
+    <node id="Rua Monte Calvo" />
+    <node id="Rua Augusto Calheiros" />
+    <node id="Rua Belém Câmara" />
+    <node id="Avenida Norte" />
+    <node id="Rua Santa Célia" />
+    <node id="Avenida Rio Grande do Sul" />
+    <node id="Cidade da Esperança" />
+    <node id="Avenida Rio Grande do Norte" />
+    <node id="Avenida Paraíba" />
+    <node id="Rua Areias" />
+    <node id="Rua Campina Grande" />
+    <node id="Nossa Senhora de Nazaré" />
+    <node id="Rua Lopo Henrique" />
+    <node id="Rua Padre Feijó" />
+    <node id="Rua Marechal Rondon" />
+    <node id="Rua Ataulfo Alves" />
+    <node id="Neópolis" />
+    <node id="Avenida das Alagoas" />
+    <node id="Avenida São Miguel dos Caribés" />
+    <node id="Rua Juiz de Fora" />
+    <node id="Rua Miradouro" />
+    <node id="Rua Mogiana Mineira" />
+    <node id="Avenida Porto de Pedras" />
+    <node id="Avenida São João Del Rey" />
+    <node id="Nova Parnamirim" />
+    <node id="Avenida São Miguel dos Caribes" />
+    <node id="Rua Inconfidentes" />
+    <node id="Avenida Ayrton Senna" />
+    <node id="Rua Caparaó" />
+    <node id="Rua Barbacena" />
+    <node id="Rua Piranhas" />
+    <node id="Rua Arapiraca" />
+    <node id="Rua Delmiro Gouveia" />
+    <node id="Avenida dos Pinheirais" />
+    <node id="Avenida Doutor Solon de Miranda Galvão" />
+    <node id="Avenida Professor João Machado" />
+    <node id="Avenida Lima e Silva" />
+    <node id="Tunel Avenida Prudente de Morais" />
+    <node id="Avenida Jerônimo Câmara" />
+    <node id="Avenida Coronel Estevam" />
+    <node id="Bom Pastor" />
+    <node id="Rua Oeste" />
+    <node id="Rua Antonio Carolino" />
+    <node id="Rua Itamar Maciel" />
+    <node id="Rua Mira Mangue" />
+    <node id="Rua Mirai" />
+    <node id="Avenida Presidente Ranieri Mazzili" />
+    <node id="Rua Indomar" />
+    <node id="Rua Pastor Josino Galvão" />
+    <node id="Rua Nossa Senhora das Oures" />
+    <node id="Avenida da Divisão" />
+    <node id="Avenida Perimetral Sul" />
+    <node id="Avenida Ceará" />
+    <node id="Rua Natal" />
+    <node id="Rua Belém" />
+    <node id="Avenida Cajazeiras" />
+    <node id="Rua Patos" />
+    <node id="Rua Silvio Caldas" />
+    <node id="Rua da Columbita" />
+    <node id="Rua do Antimônio" />
+    <node id="Rua Professor Manoel Vilar" />
+    <node id="Rua Professor José Gurgel" />
+    <node id="Rua José Seabra" />
+    <node id="Rua Congonhas" />
+    <node id="Rua Furnas" />
+    <node id="Avenida Ouro Preto" />
+    <node id="Rua Frei Henrique Coimbra" />
+    <node id="Rua Bento Gonçalves" />
+    <node id="Viaduto. Avenida Prudente de Morais" />
+    <node id="Avenida Romualdo Galvão" />
+    <node id="Avenida Miguel Castro" />
+    <node id="Rua São Sebastião" />
+    <node id="Rua Santa Cristina" />
+    <node id="Rua da Tamarineira" />
+    <node id="Rua Mirassol" />
+    <node id="Rua da Esperança" />
+    <node id="Santos Reis" />
+    <node id="Avenida Presidente Café Filho" />
+    <node id="Praia do Meio" />
+    <node id="Rua da Liberdade" />
+    <node id="Travessa Jordanês" />
+    <node id="Rocas" />
+    <node id="Avenida 25 de Dezembro" />
+    <node id="Rua Capitão-Mor Gouveia" />
+    <node id="Viaduto de Santos Reis" />
+    <node id="Rua Professor José Melquíades" />
+    <node id="Praça Wilson Miranda" />
+    <node id="Rua João Carlos de Souza" />
+    <node id="Rua Décio Fonseca" />
+    <node id="Rua Coronel Flamínio" />
+    <node id="Rua São João de Deus" />
+    <node id="Avenida Engenheiro Hildebrando de Góis" />
+    <node id="Ribeira" />
+    <node id="Travessa São Pedro" />
+    <node id="Avenida Duque de Caxias" />
+    <node id="Rua Olavo Bilac" />
+    <node id="Rua 15 de Novembro" />
+    <node id="Praça Augusto Severo" />
+    <node id="Rua Henrique Castriciano" />
+    <node id="Avenida Câmara Cascudo" />
+    <node id="Travessa Pax" />
+    <node id="Cidade Alta" />
+    <node id="Rua Padre João Manoel" />
+    <node id="Rua Padre Pinto" />
+    <node id="Rua Mermoz" />
+    <node id="Rua Coronel José Bernardo" />
+    <node id="Rua Omar Medeiros" />
+    <node id="Rua Benjamim Constant" />
+    <node id="Rua Fonseca e Silva" />
+    <node id="Rua Amaro Barreto" />
+    <node id="Avenida Almirante Alexandrino de Alencar" />
+    <node id="Avenida Presidente Bandeira" />
+    <node id="Rua dos Canindés" />
+    <node id="Rua Giácomo Palumbo" />
+    <node id="Avenida Rui Barbosa" />
+    <node id="Avenida Nascimento de Castro" />
+    <node id="Rua Nélio Tavares" />
+    <node id="Rua Coronel Norton Chaves" />
+    <node id="Rua Professor Mário Cavalcanti" />
+    <node id="Rua Ministro José Macêdo Soares" />
+    <node id="Rua São João" />
+    <node id="Rua Manoel Juvencio" />
+    <node id="Barro Vermelho" />
+    <node id="Rua Brasilia" />
+    <node id="Rua Meira e Sá" />
+    <node id="Avenida Rio Branco" />
+    <node id="Rua Apodi" />
+    <node id="Rua Professor Zuza" />
+    <node id="Rua Juvino Barreto" />
+    <node id="Praça José da Penha" />
+    <node id="Rua General Glicério" />
+    <node id="Rua Pereira Simões" />
+    <node id="Travessa Professor José Melquíades" />
+    <node id="Travessa Professor José Melquades III" />
+    <node id="Rua Vereador José Sotero" />
+    <node id="Rua Professor Moura Rabelo" />
+    <node id="Avenida das Brancas Dunas" />
+    <node id="Ponta Negra" />
+    <node id="Avenida Praia de Tibau" />
+    <node id="Avenida Praia de Genipabu" />
+    <node id="Rua Praia Jardim de Alá" />
+    <node id="Rua Praia da Barra" />
+    <node id="Rua Praia de Itamaracá" />
+    <node id="Rua Praia de Cotovelo" />
+    <node id="Rua Praia Barra de Cunhaú" />
+    <node id="Avenida Praia de Búzios" />
+    <node id="Avenida Deputado Florêncio de Queiroz" />
+    <node id="Rua Poeta Jorge Fernandes" />
+    <node id="Rua Manoel Coringa de Lemos" />
+    <node id="Rua Nossa Senhora dos Navegantes" />
+    <node id="Rua Manoel Sátiro" />
+    <node id="Rua José Bragança" />
+    <node id="Rua Afonso Magalhães" />
+    <node id="Rua Altemar Dutra" />
+    <node id="Rua Praia Diogo Lopes" />
+    <node id="Rua Praia de Jacumã" />
+    <node id="Avenida Praia de Muriú" />
+    <node id="Rua Praia de Areia Branca" />
+    <node id="Avenida Senador Dinarte de Medeiros Mariz" />
+    <node id="Rua Joaquim Alves" />
+    <node id="Rua Presidente Quaresma" />
+    <node id="Rua da Saúde" />
+    <node id="Avenida Santos Dumont" />
+    <node id="Rua dos Bougaris" />
+    <node id="Avenida Passeio das Rosas" />
+    <node id="Rua dos Manacás" />
+    <node id="Avenida dos Gerânios" />
+    <node id="Rua da Praça" />
+    <node id="Rua da Capela" />
+    <node id="Rua das Camélias" />
+    <node id="Rua Apolônio de Souza" />
+    <node id="Rua Arco Iris" />
+    <node id="Rua Ferro Cardoso" />
+    <node id="Rua Professor Coutinho" />
+    <node id="Rua Professor Antonio Trigueiro" />
+    <node id="Avenida Solange Nunes do Nascimento" />
+    <node id="Rua Timbaúba" />
+    <node id="Rua Souza" />
+    <node id="Avenida Antonio Basilio" />
+    <node id="Rua Maristela Lopes de Farias" />
+    <node id="Rua Augusto Monteiro" />
+    <node id="Rua Baraúna" />
+    <node id="Avenida 7" />
+    <node id="Travessa Indomar" />
+    <node id="Rua Tivoli" />
+    <node id="Rua Ponta de Serrambi" />
+    <node id="Rua Praia de Pajuçara" />
+    <node id="Rua Praia das Canárias" />
+    <node id="Rua Praia de Upanema" />
+    <node id="Rua Praia de Cearazinho" />
+    <node id="Rua Porto Mirim" />
+    <node id="Rua Praia de Parazinho" />
+    <node id="Avenida Praia de Ponta Negra" />
+    <node id="Rua Manoel Soares Medeiros" />
+    <node id="Rua José Américo de Carvalho" />
+    <node id="Rua Sergipe" />
+    <node id="Calçadão da Roberto Freire" />
+    <node id="Rua General Felizardo Brito" />
+    <node id="Avenida Doutor Solon de Miranda Calvao" />
+    <node id="Rua da Bronzita" />
+    <node id="Rua Laércio Fernandes" />
+    <node id="Rua Tarcísio Galvão" />
+    <node id="Rua Jairo Tinoco" />
+    <node id="Rua dos Potiguares" />
+    <node id="Rua Marechal Anacleto de Lima" />
+    <node id="Rua Rubens Mariz" />
+    <node id="Rua Pastor Eustaquio Lopes Da Silva" />
+    <node id="Travessa Lima e Silva" />
+    <node id="Travessa Segunda Lime E Silva" />
+    <node id="Rua Bom Pastor" />
+    <node id="Rua Tenente Petronilo Diogo Silva" />
+    <node id="Rua Jardim das Palmeiras" />
+    <node id="Rua Pedro de Souza" />
+    <node id="Rua Adolfo Gordo" />
+    <node id="Rua Borges de Castro" />
+    <node id="Rua Professor Saturnino" />
+    <node id="Rua Eduardo Gurgel" />
+    <node id="Rua Padre Champagnat" />
+    <node id="Rua Carvão de Pedra" />
+    <node id="Rua do Petróleo" />
+    <node id="Rua Júcio Barata" />
+    <node id="Rua das Humanidades" />
+    <node id="Rua Praia do Bessa" />
+    <node id="Rua Praia do Sagi" />
+    <node id="Rua Manoel Messias Soares" />
+    <node id="Rua Praia de Cabedelo" />
+    <node id="Rua Praia de Coqueiros" />
+    <edge source="Rua Apostolo Simão" target="Lagoa Azul" />
+    <edge source="Lagoa Azul" target="Avenida Guararapes" />
+    <edge source="Lagoa Azul" target="Avenida dos Caboclinhos" />
+    <edge source="Lagoa Azul" target="Rua Oficina do Açu" />
+    <edge source="Lagoa Azul" target="Avenida da Chegança" />
+    <edge source="Lagoa Azul" target="Avenida das Cirandas" />
+    <edge source="Lagoa Azul" target="Rua Bela Vista" />
+    <edge source="Lagoa Azul" target="Rua Sao Martinho" />
+    <edge source="Lagoa Azul" target="Avenida Três Americas" />
+    <edge source="Lagoa Azul" target="Travessa Bela Vista" />
+    <edge source="Lagoa Azul" target="Rua Bumba Meu Boi" />
+    <edge source="Lagoa Azul" target="nan" />
+    <edge source="Lagoa Azul" target="Rua do Boi Misterioso" />
+    <edge source="Lagoa Azul" target="Rua Norte da Colina" />
+    <edge source="Lagoa Azul" target="Rua Tres Lagos" />
+    <edge source="Lagoa Azul" target="Rua São Tadeu" />
+    <edge source="Lagoa Azul" target="Rua Apostolo Simao" />
+    <edge source="Lagoa Azul" target="Rua dos Coroas" />
+    <edge source="Lagoa Azul" target="Rua da Araruna" />
+    <edge source="Lagoa Azul" target="Avenida Cidade Praia" />
+    <edge source="Lagoa Azul" target="Rua Los Angeles" />
+    <edge source="Lagoa Azul" target="Avenida Centenario da Abolicao" />
+    <edge source="Lagoa Azul" target="Rua da Lapinha" />
+    <edge source="Avenida Cidade Praia" target="Potengi" />
+    <edge source="Potengi" target="Avenida Rio Doce" />
+    <edge source="Potengi" target="Rua Serra Negra" />
+    <edge source="Potengi" target="Avenida Pico do Cabugi" />
+    <edge source="Potengi" target="Rua Jequiriçá" />
+    <edge source="Potengi" target="Avenida Senhor do Bomfim" />
+    <edge source="Potengi" target="Rua Vital Ramos" />
+    <edge source="Potengi" target="Rua Paranduva" />
+    <edge source="Potengi" target="Rua Ilhéus" />
+    <edge source="Potengi" target="Avenida Guadalupe" />
+    <edge source="Potengi" target="Avenida Doutor João Medeiros Filho" />
+    <edge source="Potengi" target="Travessa Macaé" />
+    <edge source="Potengi" target="Rua Juçara" />
+    <edge source="Potengi" target="Rua Jequié" />
+    <edge source="Potengi" target="nan" />
+    <edge source="Potengi" target="Rua Maria José Lira" />
+    <edge source="Potengi" target="Avenida Florianópolis" />
+    <edge source="Potengi" target="Rua Santa Inês" />
+    <edge source="Potengi" target="Rua Itabuna" />
+    <edge source="Potengi" target="Rua Ilha de Marajó" />
+    <edge source="Potengi" target="Rua Palmeiras" />
+    <edge source="Potengi" target="Rua Caraubas" />
+    <edge source="Avenida Doutor João Medeiros Filho" target="Igapó" />
+    <edge source="Igapó" target="Túnel de Igapó" />
+    <edge source="Igapó" target="Viaduto de Igapó" />
+    <edge source="Igapó" target="Avenida Bacharel Tomaz Landim" />
+    <edge source="Igapó" target="Rua Santo Antonio de Padua" />
+    <edge source="Igapó" target="Rua Princessa dos Campos" />
+    <edge source="Viaduto de Igapó" target="Jardim Lola" />
+    <edge source="Avenida Bacharel Tomaz Landim" target="Jardim Lola" />
+    <edge source="Jardim Lola" target="Rua Cristo Rei" />
+    <edge source="Ponte Presidente Costa e Silva" target="Nordeste" />
+    <edge source="Ponte Presidente Costa e Silva" target="Salinas" />
+    <edge source="Nordeste" target="Avenida Felizardo Firmino Moura" />
+    <edge source="Nordeste" target="Rua Alto da Bela Vista" />
+    <edge source="Nordeste" target="Rua Jandira" />
+    <edge source="Nordeste" target="Rua Doutor Mário Negócio" />
+    <edge source="Nordeste" target="Travessa Jandira" />
+    <edge source="Nordeste" target="Avenida Apipucos" />
+    <edge source="Nordeste" target="Rua Acaua" />
+    <edge source="Nordeste" target="Rua Tomé de Souza" />
+    <edge source="Nordeste" target="Avenida Industrial João Francisco da Motta" />
+    <edge source="Rua Doutor Mário Negócio" target="Quintas" />
+    <edge source="Viaduto da Urbana" target="Quintas" />
+    <edge source="Quintas" target="Avenida Bernardo Vieira" />
+    <edge source="Quintas" target="Rua Santa Helena" />
+    <edge source="Quintas" target="Rua dos Bandeirantes" />
+    <edge source="Quintas" target="Rua Crezo Bezerra" />
+    <edge source="Quintas" target="Rua Senador Roberto Kennedy" />
+    <edge source="Quintas" target="nan" />
+    <edge source="Quintas" target="Rua Doutor Manoel Miranda" />
+    <edge source="Avenida Bernardo Vieira" target="Dix-Sept Rosado" />
+    <edge source="Avenida Bernardo Vieira" target="Lagoa Nova" />
+    <edge source="Avenida Bernardo Vieira" target="Nova Descoberta" />
+    <edge source="Avenida Bernardo Vieira" target="Tirol" />
+    <edge source="Avenida Bernardo Vieira" target="Lagoa Seca" />
+    <edge source="Avenida Bernardo Vieira" target="Alecrim" />
+    <edge source="Dix-Sept Rosado" target="Rua Sampaio Correia" />
+    <edge source="Dix-Sept Rosado" target="Avenida Coronel Estevam" />
+    <edge source="Dix-Sept Rosado" target="Avenida Antonio Basilio" />
+    <edge source="Dix-Sept Rosado" target="Rua dos Caicós" />
+    <edge source="Dix-Sept Rosado" target="Avenida 7" />
+    <edge source="Dix-Sept Rosado" target="Avenida Antônio Basílio" />
+    <edge source="Dix-Sept Rosado" target="Rua dos Potiguares" />
+    <edge source="Dix-Sept Rosado" target="Avenida Amintas Barros" />
+    <edge source="Rua Sampaio Correia" target="Bom Pastor" />
+    <edge source="Rua dos Caicós" target="Alecrim" />
+    <edge source="Alecrim" target="Rua Presidente Gonçalves" />
+    <edge source="Alecrim" target="Travessa Manoel Felipe" />
+    <edge source="Alecrim" target="Rua Francisco Pereira" />
+    <edge source="Alecrim" target="Avenida Interventor Mário Câmara" />
+    <edge source="Alecrim" target="Rua Coronel José Bernardo" />
+    <edge source="Alecrim" target="Rua Omar Medeiros" />
+    <edge source="Alecrim" target="Rua Benjamim Constant" />
+    <edge source="Alecrim" target="Rua Fonseca e Silva" />
+    <edge source="Alecrim" target="Rua Amaro Barreto" />
+    <edge source="Alecrim" target="Avenida Almirante Alexandrino de Alencar" />
+    <edge source="Alecrim" target="Rua Doutor Manoel Miranda" />
+    <edge source="Alecrim" target="Avenida Presidente Bandeira" />
+    <edge source="Alecrim" target="Avenida Coronel Estevam" />
+    <edge source="Alecrim" target="Rua dos Canindés" />
+    <edge source="Alecrim" target="Rua Vereador José Sotero" />
+    <edge source="Alecrim" target="Rua Presidente Quaresma" />
+    <edge source="Alecrim" target="nan" />
+    <edge source="Alecrim" target="Rua Maristela Lopes de Farias" />
+    <edge source="Alecrim" target="Rua Augusto Monteiro" />
+    <edge source="Alecrim" target="Rua Baraúna" />
+    <edge source="Rua Jaguarari" target="nan" />
+    <edge source="Rua Jaguarari" target="Lagoa Nova" />
+    <edge source="nan" target="Lagoa Nova" />
+    <edge source="nan" target="Avenida Senador Salgado Filho" />
+    <edge source="nan" target="Rua Coronel João Medeiros" />
+    <edge source="nan" target="Anel Viário da UFRN" />
+    <edge source="nan" target="Nova Descoberta" />
+    <edge source="nan" target="nan" />
+    <edge source="nan" target="Salinas" />
+    <edge source="nan" target="Capim Macio" />
+    <edge source="nan" target="Cidade da Esperança" />
+    <edge source="nan" target="Candelária" />
+    <edge source="nan" target="Neópolis" />
+    <edge source="nan" target="Nova Parnamirim" />
+    <edge source="nan" target="Cidade Nova" />
+    <edge source="nan" target="Praia do Meio" />
+    <edge source="nan" target="Santos Reis" />
+    <edge source="nan" target="Ribeira" />
+    <edge source="nan" target="Ponta Negra" />
+    <edge source="nan" target="Rua Joaquim Alves" />
+    <edge source="nan" target="Rua da Praça" />
+    <edge source="nan" target="Rua da Capela" />
+    <edge source="nan" target="Nossa Senhora de Nazaré" />
+    <edge source="nan" target="Rua das Humanidades" />
+    <edge source="Lagoa Nova" target="Avenida Senador Salgado Filho" />
+    <edge source="Lagoa Nova" target="Viaduto do Quarto Centenário" />
+    <edge source="Lagoa Nova" target="Avenida Senador Salgado Filho - Marginal" />
+    <edge source="Lagoa Nova" target="Avenida Capitão Mor-Gouveia" />
+    <edge source="Lagoa Nova" target="Avenida Antônio Basílio" />
+    <edge source="Lagoa Nova" target="Avenida Amintas Barros" />
+    <edge source="Lagoa Nova" target="Anel Viário da UFRN" />
+    <edge source="Lagoa Nova" target="Avenida Prudente de Morais" />
+    <edge source="Lagoa Nova" target="Avenida Lima e Silva" />
+    <edge source="Lagoa Nova" target="Tunel Avenida Prudente de Morais" />
+    <edge source="Lagoa Nova" target="Avenida Jerônimo Câmara" />
+    <edge source="Lagoa Nova" target="Rua da Columbita" />
+    <edge source="Lagoa Nova" target="Rua do Antimônio" />
+    <edge source="Lagoa Nova" target="Viaduto. Avenida Prudente de Morais" />
+    <edge source="Lagoa Nova" target="Avenida Romualdo Galvão" />
+    <edge source="Lagoa Nova" target="Avenida Miguel Castro" />
+    <edge source="Lagoa Nova" target="Rua Coronel Norton Chaves" />
+    <edge source="Lagoa Nova" target="Avenida Djalma Maranhão" />
+    <edge source="Lagoa Nova" target="Rua Professor Mário Cavalcanti" />
+    <edge source="Lagoa Nova" target="Rua Ministro José Macêdo Soares" />
+    <edge source="Lagoa Nova" target="Rua Coronel Auris Coelho" />
+    <edge source="Lagoa Nova" target="Rua da Saúde" />
+    <edge source="Lagoa Nova" target="Rua Apolônio de Souza" />
+    <edge source="Lagoa Nova" target="Rua da Saudade" />
+    <edge source="Lagoa Nova" target="Rua da Bronzita" />
+    <edge source="Lagoa Nova" target="Avenida Nascimento de Castro" />
+    <edge source="Lagoa Nova" target="Rua São José" />
+    <edge source="Lagoa Nova" target="Rua Jairo Tinoco" />
+    <edge source="Lagoa Nova" target="Rua Eduardo Gurgel" />
+    <edge source="Lagoa Nova" target="Rua Padre Champagnat" />
+    <edge source="Lagoa Nova" target="Rua Carvão de Pedra" />
+    <edge source="Lagoa Nova" target="Avenida Rui Barbosa" />
+    <edge source="Lagoa Nova" target="Rua do Petróleo" />
+    <edge source="Lagoa Nova" target="Rua Júcio Barata" />
+    <edge source="Avenida Senador Salgado Filho" target="Candelária" />
+    <edge source="Avenida Senador Salgado Filho" target="Capim Macio" />
+    <edge source="Avenida Senador Salgado Filho" target="Tirol" />
+    <edge source="Avenida Senador Salgado Filho" target="Neópolis" />
+    <edge source="Avenida Senador Salgado Filho - Marginal" target="Candelária" />
+    <edge source="Candelária" target="Rua Ascenso Ferreira" />
+    <edge source="Candelária" target="Passarela do Natal Shopping" />
+    <edge source="Candelária" target="Avenida Prudente de Morais" />
+    <edge source="Candelária" target="Rua Lopo Henrique" />
+    <edge source="Candelária" target="Rua Padre Feijó" />
+    <edge source="Candelária" target="Rua Marechal Rondon" />
+    <edge source="Candelária" target="Rua Ataulfo Alves" />
+    <edge source="Candelária" target="Rua Frei Henrique Coimbra" />
+    <edge source="Candelária" target="Rua Bento Gonçalves" />
+    <edge source="Candelária" target="Rua Professor Moura Rabelo" />
+    <edge source="Candelária" target="Avenida das Brancas Dunas" />
+    <edge source="Capim Macio" target="Avenida Engenheiro Roberto Freire" />
+    <edge source="Capim Macio" target="Rua Monte Sinai" />
+    <edge source="Capim Macio" target="Rua Leôncio Etelvino de Medeiros" />
+    <edge source="Capim Macio" target="Rua das Orquídeas" />
+    <edge source="Capim Macio" target="Anel Viário da UFRN" />
+    <edge source="Capim Macio" target="Avenida Passeio dos Girassóis" />
+    <edge source="Capim Macio" target="Avenida Odilon Gomes de Lima" />
+    <edge source="Capim Macio" target="Avenida Doutor Solon de Miranda Galvão" />
+    <edge source="Capim Macio" target="Avenida Professor João Machado" />
+    <edge source="Capim Macio" target="Rua Professor Manoel Vilar" />
+    <edge source="Capim Macio" target="Rua Professor José Gurgel" />
+    <edge source="Capim Macio" target="Rua José Seabra" />
+    <edge source="Capim Macio" target="Avenida Ayrton Senna" />
+    <edge source="Capim Macio" target="Avenida Praia de Muriú" />
+    <edge source="Capim Macio" target="Avenida Santos Dumont" />
+    <edge source="Capim Macio" target="Rua dos Bougaris" />
+    <edge source="Capim Macio" target="Avenida Passeio das Rosas" />
+    <edge source="Capim Macio" target="Rua dos Manacás" />
+    <edge source="Capim Macio" target="Avenida dos Gerânios" />
+    <edge source="Capim Macio" target="Rua das Camélias" />
+    <edge source="Capim Macio" target="Rua General Felizardo Brito" />
+    <edge source="Capim Macio" target="Avenida Doutor Solon de Miranda Calvao" />
+    <edge source="Capim Macio" target="Rua Manoel Messias Soares" />
+    <edge source="Avenida Engenheiro Roberto Freire" target="Ponta Negra" />
+    <edge source="Anel Viário da UFRN" target="Nova Descoberta" />
+    <edge source="Nova Descoberta" target="Avenida Djalma Maranhão" />
+    <edge source="Nova Descoberta" target="Rua Djalma Maranhão" />
+    <edge source="Nova Descoberta" target="Rua Coronel Auris Coelho" />
+    <edge source="Nova Descoberta" target="Rua Engenheiro Marcelo Cabral" />
+    <edge source="Nova Descoberta" target="Rua Padre Raimundo Brasil" />
+    <edge source="Nova Descoberta" target="Rua Dinarte Mariz Neto" />
+    <edge source="Nova Descoberta" target="Avenida Amintas Barros" />
+    <edge source="Nova Descoberta" target="Avenida Brigadeiro Gomes Ribeiro" />
+    <edge source="Nova Descoberta" target="Rua da Saudade" />
+    <edge source="Nova Descoberta" target="Avenida Xavier da Silveira" />
+    <edge source="Nova Descoberta" target="Rua Desembargador Sinval Moreira Dias" />
+    <edge source="Nova Descoberta" target="Rua Doutor Abelardo Calafange" />
+    <edge source="Nova Descoberta" target="Rua Clementino Farias" />
+    <edge source="Nova Descoberta" target="Rua Professor Antônio Nesi" />
+    <edge source="Nova Descoberta" target="Rua Edgar Barbosa" />
+    <edge source="Nova Descoberta" target="Rua Desembargador Antônio Cerejo" />
+    <edge source="Nova Descoberta" target="Avenida Nascimento de Castro" />
+    <edge source="Nova Descoberta" target="Rua Nélio Tavares" />
+    <edge source="Nova Descoberta" target="Rua Coronel Norton Chaves" />
+    <edge source="Nova Descoberta" target="Avenida Antônio Basílio" />
+    <edge source="Nova Descoberta" target="Rua Laércio Fernandes" />
+    <edge source="Nova Descoberta" target="Rua Tarcísio Galvão" />
+    <edge source="Avenida Amintas Barros" target="Nossa Senhora de Nazaré" />
+    <edge source="Avenida Xavier da Silveira" target="Tirol" />
+    <edge source="Tirol" target="Avenida Rui Barbosa" />
+    <edge source="Lagoa Seca" target="Avenida Prudente de Morais" />
+    <edge source="Lagoa Seca" target="Rua São José" />
+    <edge source="Lagoa Seca" target="Avenida Presidente Bandeira" />
+    <edge source="Lagoa Seca" target="Rua Giácomo Palumbo" />
+    <edge source="Lagoa Seca" target="Rua São João" />
+    <edge source="Avenida Capitão Mor-Gouveia" target="Cidade da Esperança" />
+    <edge source="Avenida Capitão Mor-Gouveia" target="Nossa Senhora de Nazaré" />
+    <edge source="Avenida Capitão Mor-Gouveia" target="Bom Pastor" />
+    <edge source="Avenida Interventor Mário Câmara" target="Nossa Senhora de Nazaré" />
+    <edge source="Avenida Industrial João Francisco da Motta" target="Bom Pastor" />
+    <edge source="Rua Rainha do Mar" target="Felipe Camarão" />
+    <edge source="Felipe Camarão" target="Rua Maristela Alves" />
+    <edge source="Felipe Camarão" target="Avenida Nossa Senhora do Livramento" />
+    <edge source="Felipe Camarão" target="Travessa Joaquim de Castro" />
+    <edge source="Felipe Camarão" target="Rua Pedrinho Bezerra" />
+    <edge source="Felipe Camarão" target="Avenida Nossa Senhora do Rosário" />
+    <edge source="Felipe Camarão" target="Rua Nossa Senhora das Vitorias" />
+    <edge source="Felipe Camarão" target="Rua Santa Verônica" />
+    <edge source="Felipe Camarão" target="Rua Oeste" />
+    <edge source="Felipe Camarão" target="Rua Antonio Carolino" />
+    <edge source="Felipe Camarão" target="Rua Itamar Maciel" />
+    <edge source="Felipe Camarão" target="Rua Mira Mangue" />
+    <edge source="Felipe Camarão" target="Rua Mirai" />
+    <edge source="Felipe Camarão" target="Avenida Presidente Ranieri Mazzili" />
+    <edge source="Felipe Camarão" target="Rua Indomar" />
+    <edge source="Felipe Camarão" target="Rua Pastor Josino Galvão" />
+    <edge source="Felipe Camarão" target="Rua Nossa Senhora das Oures" />
+    <edge source="Felipe Camarão" target="Rua Santa Cristina" />
+    <edge source="Felipe Camarão" target="Rua da Tamarineira" />
+    <edge source="Felipe Camarão" target="Rua Mirassol" />
+    <edge source="Felipe Camarão" target="Rua Arco Iris" />
+    <edge source="Felipe Camarão" target="Rua Ferro Cardoso" />
+    <edge source="Felipe Camarão" target="Rua Professor Coutinho" />
+    <edge source="Felipe Camarão" target="Rua Professor Antonio Trigueiro" />
+    <edge source="Felipe Camarão" target="Travessa Indomar" />
+    <edge source="Avenida Nossa Senhora do Rosário" target="Cidade Nova" />
+    <edge source="Cidade Nova" target="Rua Monte Calvo" />
+    <edge source="Cidade Nova" target="Rua Augusto Calheiros" />
+    <edge source="Cidade Nova" target="Rua Belém Câmara" />
+    <edge source="Cidade Nova" target="Avenida Norte" />
+    <edge source="Cidade Nova" target="Rua Santa Célia" />
+    <edge source="Cidade Nova" target="Rua Oeste" />
+    <edge source="Cidade Nova" target="Avenida da Divisão" />
+    <edge source="Cidade Nova" target="Rua São Sebastião" />
+    <edge source="Cidade Nova" target="Avenida Solange Nunes do Nascimento" />
+    <edge source="Avenida Rio Grande do Sul" target="Cidade da Esperança" />
+    <edge source="Cidade da Esperança" target="Avenida Rio Grande do Norte" />
+    <edge source="Cidade da Esperança" target="Avenida Paraíba" />
+    <edge source="Cidade da Esperança" target="Rua Areias" />
+    <edge source="Cidade da Esperança" target="Rua Campina Grande" />
+    <edge source="Cidade da Esperança" target="Avenida Perimetral Sul" />
+    <edge source="Cidade da Esperança" target="Avenida Ceará" />
+    <edge source="Cidade da Esperança" target="Rua Natal" />
+    <edge source="Cidade da Esperança" target="Rua Belém" />
+    <edge source="Cidade da Esperança" target="Avenida Cajazeiras" />
+    <edge source="Cidade da Esperança" target="Rua Patos" />
+    <edge source="Cidade da Esperança" target="Rua Silvio Caldas" />
+    <edge source="Cidade da Esperança" target="Rua Timbaúba" />
+    <edge source="Cidade da Esperança" target="Rua Souza" />
+    <edge source="Cidade da Esperança" target="Rua Adolfo Gordo" />
+    <edge source="Nossa Senhora de Nazaré" target="Avenida Jerônimo Câmara" />
+    <edge source="Nossa Senhora de Nazaré" target="Avenida Coronel Estevam" />
+    <edge source="Nossa Senhora de Nazaré" target="Avenida Nascimento de Castro" />
+    <edge source="Nossa Senhora de Nazaré" target="Rua dos Potiguares" />
+    <edge source="Nossa Senhora de Nazaré" target="Avenida Miguel Castro" />
+    <edge source="Nossa Senhora de Nazaré" target="Rua Marechal Anacleto de Lima" />
+    <edge source="Nossa Senhora de Nazaré" target="Rua Rubens Mariz" />
+    <edge source="Nossa Senhora de Nazaré" target="Rua Pastor Eustaquio Lopes Da Silva" />
+    <edge source="Nossa Senhora de Nazaré" target="Avenida Lima e Silva" />
+    <edge source="Nossa Senhora de Nazaré" target="Rua Borges de Castro" />
+    <edge source="Nossa Senhora de Nazaré" target="Rua Professor Saturnino" />
+    <edge source="Neópolis" target="Avenida das Alagoas" />
+    <edge source="Neópolis" target="Avenida São Miguel dos Caribés" />
+    <edge source="Neópolis" target="Rua Juiz de Fora" />
+    <edge source="Neópolis" target="Rua Miradouro" />
+    <edge source="Neópolis" target="Rua Mogiana Mineira" />
+    <edge source="Neópolis" target="Avenida Porto de Pedras" />
+    <edge source="Neópolis" target="Avenida São Miguel dos Caribes" />
+    <edge source="Neópolis" target="Rua Inconfidentes" />
+    <edge source="Neópolis" target="Avenida Ayrton Senna" />
+    <edge source="Neópolis" target="Rua Caparaó" />
+    <edge source="Neópolis" target="Rua Barbacena" />
+    <edge source="Neópolis" target="Rua Piranhas" />
+    <edge source="Neópolis" target="Rua Arapiraca" />
+    <edge source="Neópolis" target="Rua Delmiro Gouveia" />
+    <edge source="Neópolis" target="Avenida dos Pinheirais" />
+    <edge source="Neópolis" target="Rua Congonhas" />
+    <edge source="Neópolis" target="Rua Furnas" />
+    <edge source="Neópolis" target="Avenida Ouro Preto" />
+    <edge source="Avenida São João Del Rey" target="Nova Parnamirim" />
+    <edge source="Nova Parnamirim" target="Avenida São Miguel dos Caribes" />
+    <edge source="Avenida Lima e Silva" target="Bom Pastor" />
+    <edge source="Bom Pastor" target="Travessa Lima e Silva" />
+    <edge source="Bom Pastor" target="Travessa Segunda Lime E Silva" />
+    <edge source="Bom Pastor" target="Rua Bom Pastor" />
+    <edge source="Bom Pastor" target="Rua Tenente Petronilo Diogo Silva" />
+    <edge source="Bom Pastor" target="Rua Jardim das Palmeiras" />
+    <edge source="Bom Pastor" target="Rua Pedro de Souza" />
+    <edge source="Rua da Esperança" target="Santos Reis" />
+    <edge source="Santos Reis" target="Avenida Presidente Café Filho" />
+    <edge source="Santos Reis" target="Viaduto de Santos Reis" />
+    <edge source="Santos Reis" target="Rua Professor José Melquíades" />
+    <edge source="Santos Reis" target="Praça Wilson Miranda" />
+    <edge source="Santos Reis" target="Rua João Carlos de Souza" />
+    <edge source="Santos Reis" target="Rua Coronel Flamínio" />
+    <edge source="Santos Reis" target="Travessa Professor José Melquíades" />
+    <edge source="Santos Reis" target="Travessa Professor José Melquades III" />
+    <edge source="Avenida Presidente Café Filho" target="Praia do Meio" />
+    <edge source="Praia do Meio" target="Rua da Liberdade" />
+    <edge source="Praia do Meio" target="Avenida 25 de Dezembro" />
+    <edge source="Praia do Meio" target="Rua Capitão-Mor Gouveia" />
+    <edge source="Travessa Jordanês" target="Rocas" />
+    <edge source="Rocas" target="Rua Décio Fonseca" />
+    <edge source="Rocas" target="Rua São João de Deus" />
+    <edge source="Rocas" target="Rua Olavo Bilac" />
+    <edge source="Rocas" target="Rua Pereira Simões" />
+    <edge source="Rocas" target="Avenida Duque de Caxias" />
+    <edge source="Avenida Engenheiro Hildebrando de Góis" target="Ribeira" />
+    <edge source="Ribeira" target="Travessa São Pedro" />
+    <edge source="Ribeira" target="Avenida Duque de Caxias" />
+    <edge source="Ribeira" target="Rua Olavo Bilac" />
+    <edge source="Ribeira" target="Rua 15 de Novembro" />
+    <edge source="Ribeira" target="Praça Augusto Severo" />
+    <edge source="Ribeira" target="Rua Henrique Castriciano" />
+    <edge source="Ribeira" target="Avenida Câmara Cascudo" />
+    <edge source="Ribeira" target="Rua Juvino Barreto" />
+    <edge source="Ribeira" target="Avenida Rio Branco" />
+    <edge source="Ribeira" target="Praça José da Penha" />
+    <edge source="Ribeira" target="Rua General Glicério" />
+    <edge source="Avenida Câmara Cascudo" target="Cidade Alta" />
+    <edge source="Travessa Pax" target="Cidade Alta" />
+    <edge source="Cidade Alta" target="Rua Padre João Manoel" />
+    <edge source="Cidade Alta" target="Rua Padre Pinto" />
+    <edge source="Cidade Alta" target="Rua Mermoz" />
+    <edge source="Cidade Alta" target="Rua Coronel José Bernardo" />
+    <edge source="Cidade Alta" target="Avenida Rio Branco" />
+    <edge source="Cidade Alta" target="Rua Apodi" />
+    <edge source="Cidade Alta" target="Rua Professor Zuza" />
+    <edge source="Rua Coronel José Bernardo" target="Barro Vermelho" />
+    <edge source="Rua Manoel Juvencio" target="Barro Vermelho" />
+    <edge source="Barro Vermelho" target="Rua Brasilia" />
+    <edge source="Barro Vermelho" target="Rua Meira e Sá" />
+    <edge source="Ponta Negra" target="Avenida Praia de Tibau" />
+    <edge source="Ponta Negra" target="Avenida Praia de Genipabu" />
+    <edge source="Ponta Negra" target="Rua Praia Jardim de Alá" />
+    <edge source="Ponta Negra" target="Rua Praia da Barra" />
+    <edge source="Ponta Negra" target="Rua Praia de Itamaracá" />
+    <edge source="Ponta Negra" target="Rua Praia de Cotovelo" />
+    <edge source="Ponta Negra" target="Rua Praia Barra de Cunhaú" />
+    <edge source="Ponta Negra" target="Avenida Praia de Búzios" />
+    <edge source="Ponta Negra" target="Avenida Deputado Florêncio de Queiroz" />
+    <edge source="Ponta Negra" target="Rua Poeta Jorge Fernandes" />
+    <edge source="Ponta Negra" target="Rua Manoel Coringa de Lemos" />
+    <edge source="Ponta Negra" target="Rua Nossa Senhora dos Navegantes" />
+    <edge source="Ponta Negra" target="Rua Manoel Sátiro" />
+    <edge source="Ponta Negra" target="Rua José Bragança" />
+    <edge source="Ponta Negra" target="Rua Afonso Magalhães" />
+    <edge source="Ponta Negra" target="Rua Altemar Dutra" />
+    <edge source="Ponta Negra" target="Rua Praia Diogo Lopes" />
+    <edge source="Ponta Negra" target="Rua Praia de Jacumã" />
+    <edge source="Ponta Negra" target="Avenida Praia de Muriú" />
+    <edge source="Ponta Negra" target="Rua Praia de Areia Branca" />
+    <edge source="Ponta Negra" target="Avenida Senador Dinarte de Medeiros Mariz" />
+    <edge source="Ponta Negra" target="Rua Tivoli" />
+    <edge source="Ponta Negra" target="Rua Ponta de Serrambi" />
+    <edge source="Ponta Negra" target="Rua Praia de Pajuçara" />
+    <edge source="Ponta Negra" target="Rua Praia das Canárias" />
+    <edge source="Ponta Negra" target="Rua Praia de Upanema" />
+    <edge source="Ponta Negra" target="Rua Praia de Cearazinho" />
+    <edge source="Ponta Negra" target="Rua Porto Mirim" />
+    <edge source="Ponta Negra" target="Rua Praia de Parazinho" />
+    <edge source="Ponta Negra" target="Avenida Praia de Ponta Negra" />
+    <edge source="Ponta Negra" target="Rua Manoel Soares Medeiros" />
+    <edge source="Ponta Negra" target="Rua José Américo de Carvalho" />
+    <edge source="Ponta Negra" target="Rua Sergipe" />
+    <edge source="Ponta Negra" target="Calçadão da Roberto Freire" />
+    <edge source="Ponta Negra" target="Rua Praia do Bessa" />
+    <edge source="Ponta Negra" target="Rua Praia do Sagi" />
+    <edge source="Ponta Negra" target="Rua Praia de Cabedelo" />
+    <edge source="Ponta Negra" target="Rua Praia de Coqueiros" />
+  </graph>
+</graphml>
